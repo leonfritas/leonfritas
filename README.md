@@ -1,0 +1,2 @@
+- 👋 Oi, eu sou @leonfritas
+- 👀 Tenho interesse em aprender mais sobre front-end.
