@@ -1,4 +1,8 @@
-<p>Oláa, me chamo Leo, sou apaixonado por música e programação, estou em busca da minha primeira vaga front-end.😁</p>
+<h2>Oláa, me chamo Leo, e sou apaixonado por música e programação.</h2>
+
+
+
+<p>Estou em busca da minha primeira vaga front-end.😁</p>
 
 
  <div>
