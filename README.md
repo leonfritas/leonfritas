@@ -1,8 +1,6 @@
-<h2>Oláa, me chamo Leo, e sou apaixonado por música e programação.</h2>
-
-
-
-<p>Estou em busca da minha primeira vaga front-end.😁</p>
+<h3>Oláa, me chamo Leo, e sou apaixonado por música e programação.</h2>
+<p>Amo criar projetos utilizando CSS e Javascript, estou em busca da minha primeira vaga front-end.😁</p>
+<p>Aprimorando meus conhecimentos em React e Typescript</p>
 
 
  <div>
