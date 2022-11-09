@@ -1,6 +1,5 @@
-<h3>Oláa, me chamo Leo, sou apaixonado por música e tecnologia.😍</h2>
-<p>Amo criar projetos utilizando Javascript, e estou aprimorando meus conhecimentos em React.js e Typescript.😎</p>
-<p>Estou em busca da minha primeira vaga como desenvolvedor front-end.😁</p>
+<h3>Sou apaixonado por música e tecnologia.</h2>
+<p>Desenvolvo projetos utilizando React.js, Javascript e CSS, estou aprimorando meus conhecimentos em Typescript.</p>
 
 
  <div>
