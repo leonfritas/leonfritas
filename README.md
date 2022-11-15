@@ -1,5 +1,5 @@
 <h3>Sou apaixonado por música e tecnologia.</h2>
-<p>Desenvolvo projetos utilizando React.js, Javascript e CSS, estou aprimorando meus conhecimentos em Typescript.</p>
+<p>Desenvolvo projetos utilizando React.js, Javascript e CSS, estou aprimorando meus conhecimentos em Typescript e Nest.js.</p>
 
 
  <div>
