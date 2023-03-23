@@ -1,5 +1,5 @@
 <h3>Sou apaixonado por música e tecnologia.</h2>
-<p>Desenvolvo projetos utilizando React.js, Javascript, CSS, e estou aprimorando meus conhecimentos em Delphi e SQL Server.</p>
+<p>Desenvolvo projetos utilizando React.js, Javascript, CSS, atualmente estou trabalhando com Delphi e SQL.</p>
 
 
  <div>
