@@ -4,10 +4,6 @@
 ## Olá, meu nome é Leo
 
 
-
-
-![](https://komarev.com/ghpvc/?username=leonfritas&color=006bed)
-
 ## Sobre mim
 
 - 🌱 Desenvolvo projetos utilizando React.js, Node.js, CSS, Delphi e SQL.
