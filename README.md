@@ -1,5 +1,6 @@
 <h3>Sou apaixonado por música e tecnologia.</h2>
-<p>Desenvolvo projetos utilizando React.js, Node.js e CSS, atualmente estou trabalhando com Delphi e SQL.</p>
+<p>Desenvolvo projetos utilizando React.js, Node.js, CSS, Delphi e SQL.</p>
+<p> Atualmente estou trabalhando em um sistema integrado voltado para restaurante, onde o processo ocorre entre desktop e aplicativo funcionando juntos como um ecossistema integrado para facilitar e controlar os pedidos, faturamentos, estoque, controle de mesas, acesso de funcionários, entre outras coisas do dia-a-dia de um restaurante.</p>
 
 
  <div>
