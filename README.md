@@ -10,20 +10,17 @@
 
 ## Sobre mim
 
-- Desenvolvo projetos utilizando React.js, Node.js, CSS, Delphi e SQL.
-- Atualmente estou desenvolvendo um sistema integrado voltado para restaurante, onde o processo ocorre entre desktop e aplicativo funcionando juntos como um ecossistema integrado para facilitar e controlar os pedidos, faturamentos, estoque, controle de mesas, acesso de funcionários, entre outras coisas do dia-a-dia de um restaurante.
-
+- 🌱 Desenvolvo projetos utilizando React.js, Node.js, CSS, Delphi e SQL.
+- 💼 Trabalhando como Desenvolvedor Fullstack na Zoe Tecnbologia. Além de meu trabalho formal também estou desenvolvendo um sistema integrado voltado para restaurante, onde o processo ocorre entre desktop e aplicativo funcionando juntos como um ecossistema integrado para facilitar e controlar os pedidos, faturamentos, estoque, controle de mesas, acesso de funcionários, entre outras coisas do dia-a-dia de um restaurante.
+  
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise de Sistemas na Universidade Paulista(UNIP).
-- 💼 Trabalhando como Desenvolvedor Fullstack na Zoe Tecnbologia.
-- 🌱 Aprendendo mais sobre Typescript.
 
 
 ## Minhas Skills
 
 **Aplicações e dados**
 
-<div style="display: inline_block"><br>
    <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />      
    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -32,7 +29,6 @@
    <img align="center" alt="delphi" height="40" width="40" src="https://img.icons8.com/color/512/delphi-ide.png"/>
    <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
    <img align="center" alt="sql server" height="40" width="40" src="https://img.icons8.com/color/480/microsoft-sql-server.png" /> 
-</div>
 
 **Utilidades**
 
