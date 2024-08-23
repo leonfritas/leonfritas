@@ -38,11 +38,10 @@ I am a fullstack software, 29 years old and have 2 years of experience in the fi
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
 <br/>
 
-<a href="https://github.com/leonfritas" title="Perfil do Leo">
+<a href="https://github.com/leonfritas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonfritas&theme=dracula&show_icons=true" />
 </a>
 
@@ -51,6 +50,8 @@ I am a fullstack software, 29 years old and have 2 years of experience in the fi
 [![Linkedin](https://img.shields.io/badge/-leonfritas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/leonardo-ribeiro-298a89242/)](https://www.linkedin.com/in/leonardo-ribeiro-298a89242/)
 [![Gmail Badge](https://img.shields.io/badge/-leonardo.fullstack.developer@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardo.fullstack.developer@gmail.com)](mailto:leonardo.fullstack.developer@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/leonfritas?label=follow&style=social)](https://github.com/leonfritas)
-  <a href="https://www.instagram.com/leo_zero92/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/leonardo-ribeiro-298a89242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  <br/>
+  <br/>
+  
 
