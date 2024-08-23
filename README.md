@@ -4,8 +4,8 @@
 I am a fullstack software, 29 years old and have 2 years of experience in the field. My passion for transforming lines of code into innovative applications and solutions is what motivates me daily.
 
 - 🌱 I develop projects using React.js, Node.js, CSS, Delphi and SQL.
-- 💼 I work as a Fullstack Developer at Zoe Tecnbologia. In addition to my formal work, I am also developing an integrated system aimed at restaurants, where an integrated ecosystem will control orders, billing, stock, table control, employee access, among other day-to-day things in a restaurant.
-- 🤔 I'm currently improving my knowledge in Next.js, Tailwind and C.
+- 💼 Working as a Fullstack Developer at Zoe Tecnbologia. In addition to my formal work, I am also developing an integrated system aimed at restaurants, where an integrated ecosystem will control orders, billing, stock, table control, employee access, among other day-to-day things in a restaurant.
+- 🤔 Currently improving my knowledge in Next.js, Tailwind and C.
 - 🎓 Studying Systems Analysis at Universidade Paulista (UNIP).
 
 
