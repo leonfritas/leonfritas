@@ -1,11 +1,10 @@
 # Hi, I'm Leo! 👋
 
 ## 🚀 About Me
-I am a fullstack software, 29 years old and have 2 years of experience in the field. My passion for transforming lines of code into innovative applications and solutions is what motivates me daily. In addition to being a fan of films and music, I find great satisfaction in creating and developing projects that make a difference. I am always looking for challenges that allow me to grow and contribute to the success of a team
+I am a fullstack software, 29 years old and have 2 years of experience in the field. My passion for transforming lines of code into innovative applications and solutions is what motivates me daily.
 
 - 🌱 I develop projects using React.js, Node.js, CSS, Delphi and SQL.
 - 💼 I work as a Fullstack Developer at Zoe Tecnbologia. In addition to my formal work, I am also developing an integrated system aimed at restaurants, where an integrated ecosystem will control orders, billing, stock, table control, employee access, among other day-to-day things in a restaurant.
-  
 - 🤔 I'm currently improving my knowledge in Next.js, Tailwind and C.
 - 🎓 Studying Systems Analysis at Universidade Paulista (UNIP).
 
