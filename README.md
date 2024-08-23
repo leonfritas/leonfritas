@@ -60,6 +60,11 @@ I am a fullstack developer with 2 years of experience in the field. My passion f
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonfritas&theme=dracula&show_icons=true" />
 </a>
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leonfritas&show_icons=true&count_private=true&hide_border=true&title_color=d82a2a&icon_color=fdcbcb&text_color=fef2f2&bg_color=0d1117" alt="Leo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonfritas&layout=compact&hide_border=true&title_color=d82a2a&text_color=fef2f2&bg_color=0d1117" />
+</div>
+
 ## Where to find me
 
 [![Linkedin](https://img.shields.io/badge/-leonfritas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/leonardo-ribeiro-298a89242/)](https://www.linkedin.com/in/leonardo-ribeiro-298a89242/)
