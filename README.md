@@ -55,7 +55,7 @@ I am a fullstack developer with 2 years of experience in the field. My passion f
    <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div>
 <br/>
-
+<br/>
 <a href="https://github.com/leonfritas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonfritas&theme=dracula&show_icons=true" />
 </a>
@@ -67,6 +67,4 @@ I am a fullstack developer with 2 years of experience in the field. My passion f
 [![GitHub](https://img.shields.io/github/followers/leonfritas?label=follow&style=social)](https://github.com/leonfritas)
 
   <br/>
-  <br/>
-  
 
