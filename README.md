@@ -68,5 +68,7 @@ I am a fullstack developer with 2 years of experience in the field. My passion f
 [![Gmail Badge](https://img.shields.io/badge/-leonardo.fullstack.developer@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardo.fullstack.developer@gmail.com)](mailto:leonardo.fullstack.developer@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/leonfritas?label=follow&style=social)](https://github.com/leonfritas)
 
+<img align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">   
+
   <br/>
 
