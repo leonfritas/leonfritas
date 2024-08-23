@@ -1,7 +1,7 @@
 # Hi, I'm Leo! 👋
 
 ## 🚀 About Me
-I am a fullstack software, 29 years old and have 2 years of experience in the field. My passion for transforming lines of code into innovative applications and solutions is what motivates me daily.
+I am a fullstack developer with 2 years of experience in the field. My passion for transforming lines of code into innovative applications and solutions is what motivates me daily.
 
 - 🌱 I develop projects using React.js, Node.js, CSS, Delphi and SQL.
 - 🤔 Currently improving my knowledge in Next.js, Tailwind and C.
