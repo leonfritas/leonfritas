@@ -21,7 +21,7 @@ I am a fullstack developer with 2 years of experience in the field. My passion f
    <img align="center" alt="delphi" height="40" width="40" src="https://img.icons8.com/color/512/delphi-ide.png"/>
    <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
    <img align="center" alt="sql server" height="40" width="40" src="https://img.icons8.com/color/480/microsoft-sql-server.png" /> 
-   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+   <img  align="center" alt="next" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
 </div>
 <br>
 
