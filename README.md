@@ -61,8 +61,8 @@ I am a fullstack developer with 2 years of experience in the field. My passion f
 </a>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leonfritas&show_icons=true&count_private=true&hide_border=true&title_color=201E43&icon_color=134B70&text_color=EEEEEE&bg_color=508C9B" alt="Leo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonfritas&layout=compact&hide_border=true&title_color=134B70&text_color=EEEEEE&bg_color=508C9B" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leonfritas&show_icons=true&count_private=true&hide_border=true&title_color=201E43&icon_color=134B70&text_color=EEEEEE&bg_color=201E43" alt="Leo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonfritas&layout=compact&hide_border=true&title_color=134B70&text_color=EEEEEE&bg_color=201E43" />
 </div>
 
 ## Where to find me
