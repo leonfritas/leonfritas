@@ -3,8 +3,8 @@
 ## 🚀 About Me
 I am a fullstack developer with 2 years of experience in the field. My passion for transforming lines of code into innovative applications and solutions is what motivates me daily.
 
-- 🌱 I develop projects using React.js, Node.js, CSS, Delphi and SQL.
-- 🤔 Currently improving my knowledge in Next.js, Tailwind and C.
+- 🌱 I develop projects using Next.js, React.js, Node.js, CSS Tailwind, Delphi and SQL.
+- 🤔 Currently improving my knowledge in C and PHP.
 - 💼 Working as a Fullstack Developer at Zoe Tecnbologia. In addition to my formal work, I am also developing an integrated system aimed at restaurants, where an integrated ecosystem will control orders, billing, stock, table control, employee access, among other day-to-day things in a restaurant.
 - 🎓 Graduating in Systems Analysis at Universidade Paulista (UNIP).
 
