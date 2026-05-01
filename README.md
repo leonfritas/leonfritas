@@ -50,11 +50,11 @@ Atualmente trabalho na **Zoe Tecnologia**, lidando com sistemas acadêmicos, fin
 ## 📊 Estatísticas
 
 <a href="https://github.com/leonfritas">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devleo94&show_icons=true&count_private=true&hide_border=true&title_color=EEEEEE&icon_color=134B70&text_color=EEEEEE&bg_color=201E43" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leonfritas&show_icons=true&count_private=true&hide_border=true&title_color=EEEEEE&icon_color=134B70&text_color=EEEEEE&bg_color=201E43" />
 </a>
 
 <a href="https://github.com/leonfritas">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devleo94&layout=compact&hide_border=true&title_color=EEEEEE&text_color=EEEEEE&bg_color=201E43" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonfritas&layout=compact&hide_border=true&title_color=EEEEEE&text_color=EEEEEE&bg_color=201E43" />
 </a>
 
 ---
