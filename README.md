@@ -17,7 +17,7 @@ Atualmente trabalho na **Zoe Tecnologia**, lidando com sistemas acadêmicos, fin
 ## 🛠️ Tecnologias
 
 ### 🚀 Aplicações
-<div>
+<div display="flex" flex-direction="row">
    <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />        
    <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />            
    <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />                
