@@ -54,6 +54,14 @@ Atualmente trabalho na **Zoe Tecnologia**, lidando com sistemas acadêmicos, fin
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leonfritas&layout=compact&theme=tokyonight"/>
 </p>
 
+<p>
+  <img height="170em" src="https://streak-stats.demolab.com?user=leonfritas&theme=tokyonight"/>
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonfritas&theme=tokyo-night"/>
+</p>
+
 ---
 
 ## 📫 Onde me encontrar
