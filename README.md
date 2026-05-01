@@ -58,11 +58,9 @@ Atualmente trabalho na **Zoe Tecnologia**, lidando com sistemas acadêmicos, fin
   <img height="170em" src="https://streak-stats.demolab.com?user=leonfritas&theme=tokyonight"/>
 </p>
 
-<p>
-  <a href="https://github.com/leonfritas">
-     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leonfritas&show_icons=true&count_private=true&hide_border=true&title_color=EEEEEE&icon_color=134B70&text_color=EEEEEE&bg_color=201E43" alt="Leo github stats" /> 
-  </a>
-</p>
+<a href="https://github.com/leonfritas">
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leonfritas&show_icons=true&count_private=true&hide_border=true&title_color=EEEEEE&icon_color=134B70&text_color=EEEEEE&bg_color=201E43" alt="Leo github stats" /> 
+</a>
 
 ---
 
