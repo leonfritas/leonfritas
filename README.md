@@ -59,7 +59,9 @@ Atualmente trabalho na **Zoe Tecnologia**, lidando com sistemas acadêmicos, fin
 </p>
 
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonfritas&theme=tokyo-night"/>
+  <a href="https://github.com/leonfritas">
+     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leonfritas&show_icons=true&count_private=true&hide_border=true&title_color=EEEEEE&icon_color=134B70&text_color=EEEEEE&bg_color=201E43" alt="Leo github stats" /> 
+  </a>
 </p>
 
 ---
