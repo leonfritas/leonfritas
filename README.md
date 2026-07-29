@@ -4,8 +4,6 @@
 
 Sou desenvolvedor **Full Stack** com cerca de **3+ anos de experiência**, atuando no desenvolvimento e manutenção de sistemas em produção, com foco em **aplicações web, dados e soluções escaláveis**.
 
-Atualmente trabalho na **Zoe Tecnologia**, lidando com sistemas acadêmicos, financeiros e clínicos, além de integrações com APIs e regras de negócio complexas.
-
 - 💻 Desenvolvimento com: Next.js, React, Node.js, PHP, Delphi e SQL  
 - 🔗 Experiência com integrações (Boleto, Pix, APIs externas)  
 - 🧠 Forte atuação com banco de dados (SQL Server, procedures, consultas complexas)  
